@@ -1,10 +1,2 @@
----
-title: VoiceAi
-emoji: 🌖
-colorFrom: gray
-colorTo: indigo
-sdk: gradio
-sdk_version: 3.39.0
-app_file: app.py
-pinned: false
-
+## Voicebot
+![voice bot](https://res.cloudinary.com/ddzkomshk/image/upload/v1724901604/Screenshot_41_mgb6gp.png)
